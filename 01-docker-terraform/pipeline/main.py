@@ -1,5 +1,5 @@
 def main():
-    print("Hello from test!")
+    print("Hello from pipeline!")
 
 
 if __name__ == "__main__":
